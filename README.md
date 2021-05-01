@@ -24,5 +24,8 @@ pip install название вилла полностью и радуетесь
 ## Команда для Pyinstaller
     pyinstaller -i"путь к иконке, если не нужна иконка удаляйте все" -F --hidden-import=pyttsx3.drivers --hidden-import=pyttsx3.drivers.sapi5 main.py
 ---
+## Установщик
+https://github.com/ParTy-Play-go/speaker/releases/tag/v.1.1-beta
+---
 ## Цитата дня
 > Кофе в рот - пиши код)
