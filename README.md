@@ -6,9 +6,9 @@
 2. gTTS(Отвечает за произношение)
 3. pyttsx3(Вспомогашки для работы с Виндой)
 4. pypiwin32(Вспомогашки для работы с Виндой ч. 2)
-5. PyAudio(большинство функции(КАУШН! НЕ УСТАНАВЛИВАЕТСЯ ЧЕРЕЗ pip, СТАВИТСЯ ТОЛЬКО ШИНОЙ! (о том как установить читать [тут](https://github.com/ParTy-Play-go/speaker/new/master?readme=1#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-pyaudio)))
+5. PyAudio(большинство функции(КАУШН! НЕ УСТАНАВЛИВАЕТСЯ ЧЕРЕЗ pip, СТАВИТСЯ ТОЛЬКО ШИНОЙ! (о том как установить читать [тут](https://github.com/ParTy-Play-go/speaker/tree/master#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-pyaudio)))
 6. (по вкусу) colorama (Изменяет цвет текста консоли)
-7. (для собственных целей) Pyinstaller (Компилятор в exe(команда для билда Спикера [тут](https://github.com/ParTy-Play-go/speaker/new/master?readme=1#%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B4%D0%BB%D1%8F-pyinstaller)))
+7. (для собственных целей) Pyinstaller (Компилятор в exe(команда для билда Спикера [тут](https://github.com/ParTy-Play-go/speaker/tree/master#%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0-%D0%B4%D0%BB%D1%8F-pyinstaller)))
 ---
 ##  Информация
 * Все остальное (принцип работы, что, куда, зачем) раписано в самом коде([main.py](https://github.com/ParTy-Play-go/speaker/blob/master/main.py "Тыкай)")).
